@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+a.btn {
+  text-decoration: none;
+  font-family: 'edmondsansbold', Geneva, Verdana, Helvetica, Arial, sans-serif;
+  display: inline-block;
+  padding: 10px;
+  margin: 1px;
+  background: #c8f8b4;
+}
+#top{
+    height: 50px;
+    background: #c8f8b4;
+}
